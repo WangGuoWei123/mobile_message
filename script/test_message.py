@@ -32,3 +32,4 @@ class TestMassage(object):
         self.page.add_page.recv_user(mobile)
         self.page.add_page.send_content(content)
         self.page.add_page.sent_msg_btn()
+        print("继承管理")
