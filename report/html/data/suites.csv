@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_message.TestMassage.test_send_msg[13811176153-\u4f60\u597d\u4e16\u754c0]","26493",""
+"passed","test_message.TestMassage.test_send_msg[13811176153-\u4f60\u597d\u4e16\u754c2]","27630",""
+"passed","test_message.TestMassage.test_send_msg[13811176153-\u4f60\u597d\u4e16\u754c1]","27905",""

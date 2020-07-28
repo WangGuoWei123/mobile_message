@@ -1,0 +1,91 @@
+{
+  "uid" : "1487a748b10e9766",
+  "name" : "TestMassage.test_send_msg[13811176153-\\u4f60\\u597d\\u4e16\\u754c1]",
+  "fullName" : "test_message.TestMassage.test_send_msg[13811176153-\\u4f60\\u597d\\u4e16\\u754c1]",
+  "historyId" : "f41082d5b170d563897d28345ca29964",
+  "time" : {
+    "start" : 1595761979654,
+    "stop" : 1595762007559,
+    "duration" : 27905
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "发送短信",
+      "time" : {
+        "start" : 1595761988813,
+        "stop" : 1595762007559,
+        "duration" : 18746
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5c70a2283d3abf0b",
+        "name" : "发送短信的步骤",
+        "source" : "5c70a2283d3abf0b.txt",
+        "type" : "text/plain",
+        "size" : 27
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-A9U4VNK"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12984-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_message"
+  }, {
+    "name" : "testClass",
+    "value" : "test_message"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMassage.test_send_msg[13811176153-\\u4f60\\u597d\\u4e16\\u754c1]"
+  }, {
+    "name" : "package",
+    "value" : "test_message"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1487a748b10e9766.json",
+  "parameterValues" : [ ]
+}
