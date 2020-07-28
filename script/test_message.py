@@ -34,4 +34,3 @@ class TestMassage(object):
         self.page.add_page.sent_msg_btn()
         print("继承管理")
         print("集成管理")
-        print("111")
