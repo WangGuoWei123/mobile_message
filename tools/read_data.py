@@ -14,4 +14,5 @@ def read_msg():
     # 解析yaml格式文件
     with open(BASE_DIR + "/data/msg_data.yml", encoding="utf-8") as f:
         data = yaml.safe_load(f)
+        print(data)
         return data
